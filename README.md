@@ -24,3 +24,9 @@
 ```shell
 git clone https://github.com/jhxxr/STM32_HAL_library.git
 ```
+
+# 未来计划
+- [ ] 添加更多的代码示例
+- [ ] 添加更多的注释
+- [ ] 添加更多的说明
+- [ ] 添加更多的文档
